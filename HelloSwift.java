@@ -5,6 +5,7 @@ public class HelloSwift{
 		
 		System.out.println("HelloWorld");
 		System.out.println("HelloSwift");
+		System.out.println("Hi");
 		
 	}
 }
